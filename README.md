@@ -1,0 +1,2 @@
+# higher_order_network_structure_inference
+Repository for network inference optimization program
