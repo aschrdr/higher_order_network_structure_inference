@@ -1,2 +1,2 @@
-# higher_order_network_structure_inference
-Repository for network inference optimization program
+# Higher-order Network Structure Inference
+
