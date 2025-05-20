@@ -6,4 +6,4 @@ The code is written in Python and can be found in the folder Code; the functions
 
 Full citation:
 
-Funk R, Guan J, Schroeder A, Ziegelmeier L. (2025). Higher-Order Structure Inference: A Topological Approach to Parameter Selection. In Algebraic Topology: Methods, Computation, & Science.
+Funk R, Guan J, Schroeder A, Ziegelmeier L. (2025). Higher-Order Structure Inference: A Topological Approach to Parameter Selection. In \textit{Algebraic Topology: Methods, Computation, & Science}.
