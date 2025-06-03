@@ -2,7 +2,7 @@
 
 GitHub repository for the paper "Higher-Order Network Structure Inference". 
 
-The code is written in Python and can be found in the folder Code; the functions needed to run the algorithm are in the file functions_for_analysis.ipynb. The algorithm itself can be run in the file example.ipynb (the path to Gurobi optimizer is needed). The data used in the example are currently not available in the repository.
+The code is written in Python and can be found in the folder Code; the functions needed to run the algorithm are in the file functions_for_analysis.ipynb. The algorithm itself can be run in the file example.ipynb (the path to Gurobi optimizer is needed). The data used in the example have been censored and are compressed in the data_for_demonstration.zip file. The path to Gurobi optimizer must be adapted to the local machine.
 
 Full citation:
 
